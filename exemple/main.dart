@@ -1,8 +1,19 @@
 import 'package:material_ui/material_ui.dart';
 import 'package:swap_navigation/swap_navigation.dart';
-import 'export.dart';
+import 'screens/export.dart';
 
-class const Main({super.key}) extends StatelessWidget {
+void main() {
+  runApp(const MyApp());
+}
+
+class const MyApp({super.key}) extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(home: const Home());
+  }
+}
+
+class const Home({super.key}) extends StatelessWidget {
   @override
   Widget build(context) {
     return Scaffold(
