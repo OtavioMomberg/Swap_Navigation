@@ -1,6 +1,10 @@
+## 0.0.3
+
+- Example folder name corrected
+
 ## 0.0.2
 
-- Exemple corrected
+- Example corrected
 
 
 ## 0.0.1

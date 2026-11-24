@@ -1,6 +1,6 @@
 name: swap_navigation
 description: "A Flutter package to provide an alternative navigation form."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/OtavioMomberg/Swap_Navigation
 homepage: https://github.com/OtavioMomberg/Swap_Navigation
 issue_tracker: https://github.com/OtavioMomberg/Swap_Navigation/issues
