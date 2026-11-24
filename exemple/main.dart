@@ -1,5 +1,5 @@
 import 'package:material_ui/material_ui.dart';
-import 'package:swap_navigation/swap_detector.dart';
+import 'package:swap_navigation/swap_navigation.dart';
 import 'export.dart';
 
 class const Main({super.key}) extends StatelessWidget {
